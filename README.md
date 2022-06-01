@@ -1,2 +1,1 @@
-# trainGit
-git repo for training
+coucou c'est moi
